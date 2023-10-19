@@ -1,5 +1,5 @@
 # silver-dalal
-### a broker for trading stonks
+## a broker for trading stonks
 
 written in typescript, been thinking of re-writing the same rust and also adding the following features
 1. Allow users to fetch quotes for market orders 
