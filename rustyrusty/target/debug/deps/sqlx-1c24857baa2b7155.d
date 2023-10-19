@@ -1,0 +1,11 @@
+/Users/blouse_man/Downloads/coding/typescript/silver-dalal/rustyrusty/target/debug/deps/sqlx-1c24857baa2b7155.rmeta: /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/lib.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/any/mod.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/macros/mod.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/ty_match.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/lib.md /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/macros/test.md /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/any/install_drivers_note.md
+
+/Users/blouse_man/Downloads/coding/typescript/silver-dalal/rustyrusty/target/debug/deps/sqlx-1c24857baa2b7155.d: /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/lib.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/any/mod.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/macros/mod.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/ty_match.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/lib.md /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/macros/test.md /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/any/install_drivers_note.md
+
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/lib.rs:
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/any/mod.rs:
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/macros/mod.rs:
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/ty_match.rs:
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/lib.md:
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/macros/test.md:
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.2/src/any/install_drivers_note.md:
