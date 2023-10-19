@@ -11,3 +11,4 @@ Currently, it is written in typescript, been thinking of re-writing the same rus
 ![image](https://github.com/tusharxoxoxo/silver-dalal/assets/79051850/52aac71e-2a39-4c96-a9be-f1c723b1c0b0)
 ![image](https://github.com/tusharxoxoxo/silver-dalal/assets/79051850/50b7c964-16a6-46c3-8f13-6825d8368b51)
 ![image](https://github.com/tusharxoxoxo/silver-dalal/assets/79051850/6c9e103b-d0e8-4482-99a1-180984d9a751)
+![image](https://github.com/tusharxoxoxo/silver-dalal/assets/79051850/b793add7-05b1-4f25-8718-7882ae472994)
