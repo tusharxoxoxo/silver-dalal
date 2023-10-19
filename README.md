@@ -1,5 +1,9 @@
 # silver-dalal
-a broker for trading stonks
+###a broker for trading stonks
+
+written in typescript, been thinking of re-writing the same rust and also adding the following features
+1. Allow users to fetch quotes for market orders 
+2. Send a market order using the endpoint
 ![image](https://github.com/tusharxoxoxo/silver-dalal/assets/79051850/ccd4646b-50f4-4f66-bf46-33953a429cf7)
 ![image](https://github.com/tusharxoxoxo/silver-dalal/assets/79051850/5edeb78c-5fa1-474b-9d04-163a03c55bcc)
 ![image](https://github.com/tusharxoxoxo/silver-dalal/assets/79051850/52aac71e-2a39-4c96-a9be-f1c723b1c0b0)
